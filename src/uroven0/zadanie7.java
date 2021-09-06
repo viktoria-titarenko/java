@@ -12,7 +12,7 @@ package uroven0;
 
 /**
  *
- * @author Викуся
+ * @author Титаренко В.А.
  */
 public class zadanie7 {
     

@@ -16,7 +16,7 @@ package uroven0;
 
 /**
  *
- * @author Викуся
+ * @author Титаренко В.А.
  */
 public class zadanie8 {
      public static void main(String[] args) {
@@ -35,7 +35,5 @@ public class zadanie8 {
         System.out.print(" равно ");
         //System.out.print("пять");
         System.out.print(a + b);
-    }
-
-    
+    }    
 }

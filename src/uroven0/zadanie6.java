@@ -17,10 +17,9 @@ package uroven0;
 
 /**
  *
- * @author Викуся
+ * @author Титаренко В.А
  */
 public class zadanie6 {
     public static void main(String[] args) {
-        System.out.println("это не баг, это фича.");}
-    
+        System.out.println("это не баг, это фича.");} 
 }
