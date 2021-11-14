@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8673cc8-73e7-49db-8960-0707fafe9f85" name="Changes" comment="" />
+    <list default="true" id="c8673cc8-73e7-49db-8960-0707fafe9f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab_3/fifth_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/first_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/fourth_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/second_task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_3/third_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,20 +42,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.project_1">
-    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM" />
-      <module name="Administrator" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="credit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.credit" />
+  <component name="RunManager" selected="Application.fifth_task">
+    <configuration name="fifth_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.fifth_task" />
       <module name="Administrator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.*" />
+          <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="project_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.project_1" />
+    <configuration name="first_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.first_task" />
       <module name="Administrator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.*" />
+          <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.timer" />
+    <configuration name="fourth_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.fourth_task" />
       <module name="Administrator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.*" />
+          <option name="PATTERN" value="lab_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,9 +82,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timer" />
+    <configuration name="second_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.second_task" />
       <module name="Administrator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third_task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_3.third_task" />
+      <module name="Administrator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.project_1" />
-        <item itemvalue="Application.credit" />
-        <item itemvalue="Application.timer (1)" />
-        <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.timer" />
+        <item itemvalue="Application.fifth_task" />
+        <item itemvalue="Application.fourth_task" />
+        <item itemvalue="Application.third_task" />
+        <item itemvalue="Application.second_task" />
+        <item itemvalue="Application.first_task" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636899125178</updated>
       <workItem from="1636899131413" duration="3917000" />
+      <workItem from="1636904394667" duration="1329000" />
     </task>
     <servers />
   </component>
