@@ -1,5 +1,6 @@
-public class time {
+package lab6;
 
+public class timer {
     public static void main(String[] args) {
         final int milli_per_second = 1000;
         final int second_per_minute = 60;

@@ -1,5 +1,5 @@
+package lab6;
 import java.util.Scanner;
-
 public class ATM {
     public static void main(String[] args) {
     int _5000rub, _2000rub, _1000rub, _500rub, _200rub, _100rub, _50rub;
