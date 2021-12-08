@@ -20,7 +20,7 @@ public class project_2 {
          }
         }
         double rubles = dollars * cours;
-        System.out.println( Math.ceil(rubles) + "российского рубля");
+        System.out.println( Math.ceil(rubles) + " российского рубля");
 
 
 
