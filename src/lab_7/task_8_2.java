@@ -13,7 +13,7 @@ public class task_8_2 {
             int score = scale * 3;
             System.out.println(score);
         } else {
-            int score = scale * 3;
+            double score = scale * 0.3;
             System.out.println(score);
         }
 
